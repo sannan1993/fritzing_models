@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="ESP8266 NodeMCU LoLin module_4ac350af3ac2fef357e535cbb2c0db8c_1" modelIndex="5752" path="C:/Users/sannan.ahmed/Documents/Fritzing/parts/user/ESP8266 NodeMCU LoLin module_4ac350af3ac2fef357e535cbb2c0db8c_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_b54cbce9011b4ef2a74a9eb0c6b812f8_1" modelIndex="5762" path="C:/Users/sannan.ahmed/Documents/Fritzing/parts/user/prefix0000_b54cbce9011b4ef2a74a9eb0c6b812f8_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="w5500_module_ecaaa3b585928404276c7a023c4064ce_9" modelIndex="5767" path="C:/Users/sannan.ahmed/Documents/Fritzing/parts/user/w5500_module_ecaaa3b585928404276c7a023c4064ce_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="STM32MINI_0f8d7d7b168cf1c741a2f79c85fd049c_1" modelIndex="5780" path="C:/Users/sannan.ahmed/Documents/Fritzing/parts/user/STM32MINI_0f8d7d7b168cf1c741a2f79c85fd049c_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
